@@ -5,6 +5,7 @@
 #  Authors: A. Gonczarek, J. Kaczmar, S. Zareba
 #  2017
 # --------------------------------------------------------------------------
+#Fuat KARA - Hakan GENC - Burak Gok
 
 import numpy as np
 from utils import polynomial
